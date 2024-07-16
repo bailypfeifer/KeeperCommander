@@ -1,0 +1,2 @@
+share-record "Enter Folder Name"/"Enter Record Name" -e email@addresshere.com
+sr --expire-in 30d -e emailaddresshere.com "Enter Folder Name"/"Enter Record Name"
